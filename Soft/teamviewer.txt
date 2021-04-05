@@ -1,0 +1,6 @@
+download.teamviewer.com
+linux.teamviewer.com
+client.teamviewer.com
+ping3.dyngate.com
+ping3.teamviewer.com
+router15.teamviewer.com

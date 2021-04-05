@@ -1,0 +1,3 @@
+a1096093.cdn.optimizely.com
+cdn2.optimizely.com
+tapi.optimizely.com

@@ -1,0 +1,3 @@
+auth.drp.su
+dl.drp.su
+update.drp.su
