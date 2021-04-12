@@ -1312,3 +1312,10 @@ otx.alienvault.com
 054464aee86432b717f42731cb8055ff
 13807668684b8af1295be396ca9631e38b379df5
 a29b233954babdb6de3fd512e22d0e152d188bcbf74f3b1f3ac9de450007b769
+st.drweb.com
+www.welivesecurity.com
+static.ptsecurity.com
+us-cert.cisa.gov
+/news.php 
+/images/logo.png
+bugmenot.com
