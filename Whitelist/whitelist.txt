@@ -1333,3 +1333,9 @@ bugmenot.com
 www.fortinet.com
 blog.malwarebytes.com
 www.threatcrowd.org
+abdfc692d9fe43e2ba8fe6cb5a8cb95a
+d4f0397f83083e1c6fb0894187cc72aebcf2f34f
+949485ba939953642714ae6831d7dcb261691cac7cbb8c1a9220333801f60820
+20.191.46.211
+40.78.128.150
+192.168.100.85
