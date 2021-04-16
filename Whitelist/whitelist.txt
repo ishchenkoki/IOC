@@ -1339,3 +1339,9 @@ d4f0397f83083e1c6fb0894187cc72aebcf2f34f
 20.191.46.211
 40.78.128.150
 192.168.100.85
+mega.nz
+www.dropbox.com
+f.cl.ly
+autocontext.begun.ru
+counter.24log.ru
+s3-ap-southeast-1.amazonaws.com
