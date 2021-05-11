@@ -1350,3 +1350,7 @@ va.tawk.to
 docs.wixstatic.com
 helmt.ru
 www.hcaptcha.com
+securelist.com
+5746bd7e255dd6a8afa06f7c42c1ba41
+0f3c4ff28f354aede202d54e9d1c5529a3bf87d8
+db06c3534964e3fc79d2763144ba53742d7fa250ca336f4a0fe724b75aaff386
