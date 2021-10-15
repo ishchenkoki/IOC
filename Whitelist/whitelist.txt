@@ -1444,7 +1444,9 @@ www.livefoodcultures.com
 cdf-anon.xboxlive.com
 /filestreamingservice/files/0c5390a3-cf80-41fa-8037-771fb7b66e00/MUSE-19H1_EOS.cab
 192.168.1.1
+cdn.ampproject.org
 queuev4.vk.com
+/news/
 /DigiCertGlobalRootCA.crl
 185.39.80.168
 /sca1b.crl
