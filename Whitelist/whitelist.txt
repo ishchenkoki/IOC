@@ -1472,6 +1472,10 @@ www.msn.com
 api.vk.com
 /about
 /dashboard
+iplists.firehol.org
+labs.inquest.net
+infosec.cert-pa.it
+images.rambler.ru
 st1-19.vk.com
 /login/index.php
 st1-99.vk.com
@@ -1481,3 +1485,6 @@ ip-info.ff.avast.com
 connect.ok.ru
 wcpstatic.microsoft.com
 /api/login
+builds.cdn.getgo.com
+ssl.p.jwpcdn.com
+/login
