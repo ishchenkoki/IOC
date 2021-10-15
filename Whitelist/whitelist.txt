@@ -1448,3 +1448,7 @@ ic-dv.ru
 81.19.74.5
 presence.api.drift.com
 ya.ru
+192.168.1.2
+/dashboard
+st1-19.vk.com
+st1-99.vk.com
