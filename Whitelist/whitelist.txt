@@ -1488,3 +1488,5 @@ wcpstatic.microsoft.com
 builds.cdn.getgo.com
 ssl.p.jwpcdn.com
 /login
+40.126.31.1
+login.live.com
