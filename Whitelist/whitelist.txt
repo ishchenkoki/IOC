@@ -1451,6 +1451,9 @@ upload.wikimedia.org
 81.19.74.5
 presence.api.drift.com
 ya.ru
+/search
+www.malwares.com
+crl.usertrust.com
 192.168.1.2
 vulners.com
 oneocsp.microsoft.com
