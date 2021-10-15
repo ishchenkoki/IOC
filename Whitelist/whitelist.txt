@@ -1438,6 +1438,9 @@ settings-ssl.xboxlive.com
 184.51.136.10
 /loading/
 login.vk.com
+grokdebug.herokuapp.com
+/home.php
+www.livefoodcultures.com
 192.168.1.1
 queuev4.vk.com
 /DigiCertGlobalRootCA.crl
