@@ -1442,8 +1442,11 @@ login.vk.com
 queuev4.vk.com
 /DigiCertGlobalRootCA.crl
 185.39.80.168
+/sca1b.crl
+primamed-dv.ru
 185.39.80.58
 ic-dv.ru
+upload.wikimedia.org
 92.53.96.140
 81.19.74.5
 presence.api.drift.com
