@@ -1447,6 +1447,7 @@ cdf-anon.xboxlive.com
 cdn.ampproject.org
 queuev4.vk.com
 /news/
+vademec.ru
 /DigiCertGlobalRootCA.crl
 185.39.80.168
 /sca1b.crl
@@ -1457,10 +1458,12 @@ upload.wikimedia.org
 92.53.96.140
 81.19.74.5
 presence.api.drift.com
+/index.php
 ya.ru
 /search
 www.malwares.com
 crl.usertrust.com
+pcookie.aliexpress.com
 192.168.1.2
 vulners.com
 oneocsp.microsoft.com
