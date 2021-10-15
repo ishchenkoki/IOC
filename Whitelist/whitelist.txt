@@ -1453,6 +1453,8 @@ presence.api.drift.com
 ya.ru
 192.168.1.2
 vulners.com
+oneocsp.microsoft.com
+/update/
 www.msn.com
 api.vk.com
 /about
