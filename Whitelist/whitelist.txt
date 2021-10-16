@@ -1487,6 +1487,14 @@ wcpstatic.microsoft.com
 /api/login
 builds.cdn.getgo.com
 ssl.p.jwpcdn.com
+192.168.1.73
+/owa/auth/logon.
+/pki/crl/products/MicCodSigPCA_08-31-2010.crl
 /login
 40.126.31.1
+www.ccleaner.com
 login.live.com
+gameplayapi.intel.com
+www.spamhaus.org
+/sca1b.crl
+mozilla.cloudflare-dns.com
