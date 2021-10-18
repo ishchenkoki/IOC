@@ -1517,3 +1517,16 @@ com.adv.vz.ru
 nvd.nist.gov
 text.ru
 URLHaus.abuse.ch
+/owa/auth/logon.aspx
+vimeo.com
+cdn.directadvert.ru
+www.canva.com
+lentaru.media.eagleplatform.com
+xakep.ru
+/owa
+www.checkpoint.com
+media3.giphy.com
+iqmen.ru
+comp-security.net
+marathonec.ru
+tuktuk-china.ru
