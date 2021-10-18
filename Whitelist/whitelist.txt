@@ -1535,3 +1535,7 @@ www.gamespot.com
 www.netflix.com
 vnepogoda.ru
 buymeacoffee.com
+login.live.com
+onecs-live.azureedge.net
+/login/
+www.dell.com
