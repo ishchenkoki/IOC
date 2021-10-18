@@ -1510,3 +1510,5 @@ gravatar.com
 /gallery.php
 s.yimg.com
 www.softrew.ru
+www.abuseipdb.com
+urlhaus.abuse.ch
