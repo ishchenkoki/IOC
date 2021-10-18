@@ -1512,3 +1512,5 @@ s.yimg.com
 www.softrew.ru
 www.abuseipdb.com
 urlhaus.abuse.ch
+abuse.ch
+com.adv.vz.ru
