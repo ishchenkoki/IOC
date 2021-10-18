@@ -1498,3 +1498,11 @@ gameplayapi.intel.com
 www.spamhaus.org
 /sca1b.crl
 mozilla.cloudflare-dns.com
+gameplayapi.intel.com
+/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/Office/Data/v32_16.0.14430.20270.cab
+www.dmosk.ru
+computingforgeeks.com
+b1.nel.goog
+stackoverflow.com
+gravatar.com
+/about/
