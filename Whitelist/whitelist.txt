@@ -1514,3 +1514,6 @@ www.abuseipdb.com
 urlhaus.abuse.ch
 abuse.ch
 com.adv.vz.ru
+nvd.nist.gov
+text.ru
+URLHaus.abuse.ch
