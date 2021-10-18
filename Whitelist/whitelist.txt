@@ -1508,3 +1508,5 @@ gravatar.com
 /about/
 /handler.php
 /gallery.php
+s.yimg.com
+www.softrew.ru
