@@ -1506,3 +1506,5 @@ b1.nel.goog
 stackoverflow.com
 gravatar.com
 /about/
+/handler.php
+/gallery.php
