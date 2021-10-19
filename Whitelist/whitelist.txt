@@ -1539,3 +1539,12 @@ login.live.com
 onecs-live.azureedge.net
 /login/
 www.dell.com
+/image
+vuldb.com
+wheel1000size.ru
+archlinux.org.ru
+/Login
+/image/
+wordpress.org
+/support
+/wp-includes/js/jquery/jquery-migrate.min.js
