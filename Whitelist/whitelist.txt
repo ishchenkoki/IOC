@@ -1550,3 +1550,13 @@ wordpress.org
 /wp-includes/js/jquery/jquery-migrate.min.js
 /js/jquery.js
 ibm.com
+www.trendmicro.com
+www.riskiq.com
+www.dns.ninja
+unit42.paloaltonetworks.com
+researchcenter.paloaltonetworks.com
+www.paloaltonetworks.com
+g.symcb.com
+www.confident.ru
+pixel-eu.rubiconproject.com
+medservise24.ru
