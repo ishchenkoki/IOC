@@ -1561,3 +1561,7 @@ www.confident.ru
 pixel-eu.rubiconproject.com
 /site/login
 medservise24.ru
+vk.cc
+ia601503.us.archive.org
+archive.org
+content.jwplatform.com
