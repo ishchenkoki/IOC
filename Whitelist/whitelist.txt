@@ -1565,3 +1565,4 @@ vk.cc
 ia601503.us.archive.org
 archive.org
 content.jwplatform.com
+www.threatminer.org
