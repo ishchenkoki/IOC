@@ -1565,4 +1565,6 @@ vk.cc
 ia601503.us.archive.org
 archive.org
 content.jwplatform.com
+threatintelligence.guardicore.com
 www.threatminer.org
+/assets
