@@ -1568,3 +1568,5 @@ content.jwplatform.com
 threatintelligence.guardicore.com
 www.threatminer.org
 /assets
+cve.mitre.org
+eravlad.ru
