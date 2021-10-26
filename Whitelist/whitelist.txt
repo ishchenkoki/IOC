@@ -1570,3 +1570,10 @@ www.threatminer.org
 /assets
 cve.mitre.org
 eravlad.ru
+/user/login
+mirror1.malwaredomains.com
+cve.mitre.org
+www.baidu.com
+www.ibm.com
+/a/
+/public/
