@@ -1606,3 +1606,7 @@ dmg.digitaltarget.ru
 88.212.201.216
 rbc.ru
 upload.wikimedia.org
+img.shields.io
+connect.ok.ru
+simage2.pubmatic.com
+www.filecheck.ru
