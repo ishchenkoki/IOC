@@ -1617,3 +1617,15 @@ ntp.org
 pool.ntp.org
 token.rubiconproject.com
 wordpress.com
+ab4cd527befcc43ee441e6c50cce54c8
+37bee59f81f2a3bbd2c96be798dfcb9f7645eb77
+13b776ae63049ffba7e35ea0a4c26ebb57b10d973e05c4cf1214249754dc46e4
+cloudflare.com
+blogs.juniper.net
+gateway.facebook.com
+login.live.com
+polic4.ru
+aanba.ru
+compendium.com.ua
+discord.com
+pixel-eu.rubiconproject.com
