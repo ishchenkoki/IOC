@@ -1629,3 +1629,7 @@ aanba.ru
 compendium.com.ua
 discord.com
 pixel-eu.rubiconproject.com
+www.bleepingcomputer.com
+192.168.1.50
+dnr-pravda.ru
+www.accordschool.com.ua
