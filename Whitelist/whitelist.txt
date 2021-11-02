@@ -1642,4 +1642,8 @@ zoom.us
 vesninsoft.ru
 token.rubiconproject.com
 109.207.2.205
+adblockplus.org
+213.19.162.90
+213.19.162.80
 news.mediametrics.ru
+pr-bh.ybp.yahoo.com
