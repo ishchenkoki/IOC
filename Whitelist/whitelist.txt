@@ -1647,3 +1647,10 @@ adblockplus.org
 213.19.162.80
 news.mediametrics.ru
 pr-bh.ybp.yahoo.com
+dd65b7854fb27e26afd9f1315eee2265
+8f66e220cbac8565f32700397b08a7abf777cc2e
+768b39d67fe884b1b216803b76f5afcefadb860544fd0e52c3f286670a740dbb
+helpdeskeddy.com
+162.55.87.103
+13.32.123.97
+download-installer.cdn.mozilla.com
