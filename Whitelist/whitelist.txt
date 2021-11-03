@@ -1654,3 +1654,9 @@ helpdeskeddy.com
 162.55.87.103
 13.32.123.97
 download-installer.cdn.mozilla.com
+www.mechnikoff.ru
+medium.com
+ads.digitalcaramel.com
+csdalzavod.ru
+download-installer.cdn.mozilla.net
+help.reg.ru
