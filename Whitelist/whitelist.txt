@@ -1693,3 +1693,10 @@ www.wired.com
 www.snort.org
 www.yahoo.com
 www.ultimatewindowssecurity.com
+133d4e155ef336ebd4be04d160624f89
+9e3535aff62f04f46995a2454aaca12cad94bc34
+0e2c2eccee62fc407313618bf8c277a8c5d9e53636408cd0246967c69ec94ffe
+a98d71eb1bec5d38549b2155a3e54008
+8bfc5af325534d4b4b690c4883e27e3d005eee20
+e6d9df99f3bce911f8241e4e40784288b879b93feaeb5edddb1cb4e0cac675f8
+www.elastic.co
