@@ -1688,3 +1688,8 @@ mxfront.stable.qloud-b.yandex.net
 docs.python.org
 steamcommunity.com
 codeby.net
+kpfu.ru
+www.wired.com
+www.snort.org
+www.yahoo.com
+www.ultimatewindowssecurity.com
