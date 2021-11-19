@@ -1717,3 +1717,11 @@ a6d408b2a469ac35952f5a13b8540bfe94652672
 bf3337e02b3439c480083c3248a880850a63417d2f680913a10ee161c28eef33
 rusearch.co
 connectivitycheck.gstatic.com
+noscript.net
+telegra.ph
+media.giphy.com
+tlum.ru
+www.immuniweb.com
+msrc.microsoft.com
+www.rt.com
+sub2.bubblesmedia.ru
