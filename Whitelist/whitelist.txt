@@ -1758,3 +1758,4 @@ my.kaspersky.ru
 static.cloudim.ru
 pypi.org
 portal.msrc.microsoft.com
+join.skype.com
