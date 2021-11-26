@@ -1750,3 +1750,11 @@ pol3.ru
 partner.roseltorg.tech
 coop-land.ru
 enterofuryl.ru
+www.ikea.com
+marketplace.visualstudio.com
+my.kaspersky.com
+my.kaspersky.ru
+/sport/
+static.cloudim.ru
+pypi.org
+portal.msrc.microsoft.com
