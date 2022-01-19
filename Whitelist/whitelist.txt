@@ -1784,3 +1784,13 @@ ae2fac770798d4adac3b4ca41b14e05f
 google.com.ru
 /?utm_source
 /url?sa
+attack.mitre.org
+easylist-downloads.adblockplus.org
+/?e
+/music/
+/ws
+/?id
+/wp-includes/js/wp-embed.min.js?ver
+/accounts
+/img/logo.png
+/cache
