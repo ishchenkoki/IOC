@@ -1794,3 +1794,4 @@ easylist-downloads.adblockplus.org
 /accounts
 /img/logo.png
 /cache
+/stat.php
