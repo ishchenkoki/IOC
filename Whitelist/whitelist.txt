@@ -1795,3 +1795,8 @@ easylist-downloads.adblockplus.org
 /img/logo.png
 /cache
 /stat.php
+/search?query
+/tag.js
+/update
+/js/jquery-3.3.1.min.js
+/ma
