@@ -1800,3 +1800,9 @@ easylist-downloads.adblockplus.org
 /update
 /js/jquery-3.3.1.min.js
 /ma
+www.buymeacoffee.com
+help.ubuntu.com
+laravel.com
+www.speedtest.net
+gateway.facebook.com
+/login.php
