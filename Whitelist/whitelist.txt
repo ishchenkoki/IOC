@@ -1806,3 +1806,9 @@ laravel.com
 www.speedtest.net
 gateway.facebook.com
 /login.php
+www.lego.com
+/jquery-3.3.1.min.js
+/faq/
+/captcha.php
+api.sypexgeo.net
+www.tiktok.com
