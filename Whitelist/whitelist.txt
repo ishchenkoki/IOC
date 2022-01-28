@@ -1825,6 +1825,10 @@ www.domaintools.com
 hashes.com
 www.cynet.com
 attack.mitre.org
+/index.php?topic
 tools.ietf.org
 securityaffairs.co
 www.lego.com
+/?token
+/?url
+/w
