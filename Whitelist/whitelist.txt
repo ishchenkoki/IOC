@@ -1832,3 +1832,13 @@ www.lego.com
 /?token
 /?url
 /w
+/css/
+/activity
+www.scamadviser.com
+sourceforge.net
+parcelsapp.com
+logrhythm.com
+www.circl.lu
+pixel.bilinmedia.net
+winscp.net
+www.darkreading.com
