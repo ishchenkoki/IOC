@@ -1858,3 +1858,15 @@ apps.mypurecloud.com
 zhenskie-shapki.ru
 www.compuway.ru
 192.112.36.4
+compressor.io
+imagecompressor.com
+maltiverse.com
+scamalytics.com
+ag-eremeev.ru
+/logs
+/loader.js
+easylist-downloads.adblockplus.org
+eurotest.com.ua
+metall-en.ru
+92.53.96.119
+/portfolio/
