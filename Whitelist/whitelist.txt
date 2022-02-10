@@ -1873,3 +1873,8 @@ metall-en.ru
 www.joesecurity.org
 ctldl.windowsupdate.com
 178.79.242.128
+state-placements.protek.ru
+/static/
+192.241.206.246
+/jquery-3.3.1.slim.min.js
+gateway.facebook.com
