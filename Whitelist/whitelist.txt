@@ -1878,3 +1878,13 @@ state-placements.protek.ru
 192.241.206.246
 /jquery-3.3.1.slim.min.js
 gateway.facebook.com
+/?page_id
+/?cid
+/log
+/updates
+/auth
+/id.html
+/verify
+/socket.io/?EIO
+/apps/
+/auth/login
