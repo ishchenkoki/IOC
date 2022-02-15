@@ -1888,3 +1888,7 @@ gateway.facebook.com
 /socket.io/?EIO
 /apps/
 /auth/login
+vitauct.ru
+gateway.facebook.com
+easylist-downloads.adblockplus.org
+192.168.1.240
