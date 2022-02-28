@@ -1907,3 +1907,7 @@ livejournal.com
 81.19.74.7
 193.109.247.160
 193.109.247.229
+pool.ntp.org
+1.pool.ntp.org
+2.pool.ntp.org
+3.pool.ntp.org
