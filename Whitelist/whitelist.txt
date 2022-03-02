@@ -1916,3 +1916,5 @@ online.sberbank.ru
 7a71d97be8a58155d26c08ce0d8fb680
 ac3c01ebc9d5a43100437995b2a23c72f01d6fcd
 f0d6d28ceba1f7a6012f65f1c609790a6737afd03bef0ddc47bbc0eb01a40b4c
+www.flightradar24.com
+vsoloviev.ru
