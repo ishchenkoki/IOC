@@ -1924,3 +1924,13 @@ www.tm.a.prd.aadg.trafficmanager.net
 e8652.dscx.akamaiedge.net
 tensor.ru
 d228z91au11ukj.cloudfront.net
+/css/css.css
+/get
+/player
+/backoffice/
+esia.gosuslugi.ru
+www.reuters.com
+jsfiddle.net
+paint.net
+form.jotformeu.com
+www.group-ib.com
