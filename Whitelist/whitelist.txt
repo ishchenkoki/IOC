@@ -1936,3 +1936,6 @@ form.jotformeu.com
 www.group-ib.com
 /x.cer
 www.google.com.ru
+nypost.com
+net.geo.opera.com
+canonical-bos01.cdn.snapcraftcontent.com
