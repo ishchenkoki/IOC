@@ -2006,3 +2006,8 @@ ads2ads.net
 zworld-news.com
 arc.msn.com	
 20.82.209.183
+148.251.49.239
+/search/
+x1.i.lencr.org
+api.ipify.org
+j.gtld-servers.net
