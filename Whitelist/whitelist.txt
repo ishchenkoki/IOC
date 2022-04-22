@@ -2011,3 +2011,5 @@ arc.msn.com
 x1.i.lencr.org
 api.ipify.org
 j.gtld-servers.net
+www.alexa.com
+www.mediafire.com
