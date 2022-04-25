@@ -2013,3 +2013,4 @@ api.ipify.org
 j.gtld-servers.net
 www.alexa.com
 www.mediafire.com
+nmap.org
