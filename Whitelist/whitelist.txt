@@ -2029,3 +2029,4 @@ tk-flex.ru
 192.168.100.144
 11.0.0.1
 duke4.net
+upload.wikimedia.org
