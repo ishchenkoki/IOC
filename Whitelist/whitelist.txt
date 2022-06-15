@@ -2039,3 +2039,5 @@ www.booking.com
 telegraf.plus
 1whois.ru
 /en_us/research/21/d/water-pamola-attacked-online-shops-via-malicious-orders.html
+ipfs.io
+/faq.php
