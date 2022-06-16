@@ -2041,3 +2041,8 @@ telegraf.plus
 /en_us/research/21/d/water-pamola-attacked-online-shops-via-malicious-orders.html
 ipfs.io
 /faq.php
+binance.com
+changelly.com
+/match/
+/login.aspx
+/forum/
