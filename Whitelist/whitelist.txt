@@ -2045,4 +2045,5 @@ binance.com
 changelly.com
 /match/
 /login.aspx
+/analytics.js
 /forum/
