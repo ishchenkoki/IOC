@@ -2047,3 +2047,4 @@ changelly.com
 /login.aspx
 /analytics.js
 /forum/
+smotret-video.ru
