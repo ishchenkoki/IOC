@@ -2055,3 +2055,5 @@ ugpc.ru
 paracels66.ru
 korabliki.online
 /mail/
+/stats/
+www.pacifictrans.ru
