@@ -2057,3 +2057,5 @@ korabliki.online
 /mail/
 /stats/
 www.pacifictrans.ru
+/main
+/s/
