@@ -2059,3 +2059,5 @@ korabliki.online
 www.pacifictrans.ru
 /main
 /s/
+/404
+/pixel
