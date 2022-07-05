@@ -2072,3 +2072,4 @@ qd.admetricspro.com
 /docs/
 /v
 regioninformburo.ru
+sqlite.org
