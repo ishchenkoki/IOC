@@ -2084,3 +2084,4 @@ www.europarl.europa.eu
 socactive.com
 /log/
 www.ekonomika-st.ru
+www.sqlite.org
