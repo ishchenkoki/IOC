@@ -2093,3 +2093,4 @@ www.sqlite.org
 dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
+www.microsoft.com
