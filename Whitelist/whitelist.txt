@@ -2101,3 +2101,6 @@ httpbin.org
 country.pizza
 raik.by
 motovell.ru
+checkip.amazonaws.com
+mail.com
+fortiguard.com
