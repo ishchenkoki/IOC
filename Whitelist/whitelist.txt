@@ -2094,3 +2094,10 @@ dl.delivery.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
 msedge.f.dl.delivery.mp.microsoft.com
 www.microsoft.com
+centr-zanyatosti-naseleniya.ru
+example.com
+httpbin.org
+/update.php
+country.pizza
+raik.by
+motovell.ru
