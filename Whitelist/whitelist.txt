@@ -2106,3 +2106,7 @@ mail.com
 fortiguard.com
 rastenievod.com
 www.hgmk.ru
+chat.famed.online
+23sintez.ru
+soclike.ru
+/dashboard.php
