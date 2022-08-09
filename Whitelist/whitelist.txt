@@ -2110,3 +2110,7 @@ chat.famed.online
 23sintez.ru
 soclike.ru
 /dashboard.php
+cinsscore.com
+blocklist.greensnow.co
+client.teamviewer.com
+/auth.php
