@@ -2115,3 +2115,7 @@ blocklist.greensnow.co
 client.teamviewer.com
 /auth.php
 vse-o-trubah.ru
+/signin
+evrosnab.ru
+hybrid-analysis.com
+dezshare.ru
