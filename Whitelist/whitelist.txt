@@ -2124,3 +2124,4 @@ danger.rulez.sk
 lists.blocklist.de
 ener-s.ru
 suricata-ids.org
+amazonses.com
