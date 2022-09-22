@@ -2125,3 +2125,6 @@ lists.blocklist.de
 ener-s.ru
 suricata-ids.org
 amazonses.com
+net.ru
+d1zkz3k4cclnv6.cloudfront.net
+comcast.net
