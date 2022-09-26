@@ -2138,3 +2138,6 @@ sentinelone.com
 www.shodan.io
 centr-zanyatosti-naseleniya.ru
 mp.weixin.qq.com
+cox.net
+cs.avito.ru
+sntr.avito.ru
