@@ -2131,3 +2131,9 @@ comcast.net
 d1zkz3k4cclnv6.cloudfront.net
 storage.yandexcloud.net
 code.jquery.com
+evrocontract.ru
+multimedia.email.ideco.ru
+upload.wikimedia.org
+sentinelone.com
+www.shodan.io
+centr-zanyatosti-naseleniya.ru
