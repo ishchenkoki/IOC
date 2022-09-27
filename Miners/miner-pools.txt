@@ -386,5 +386,5 @@ proxy.mineshaft.ml
 mine.ppxxmr.com
 148.251.22.104
 52.1.56.181
-
+donate.ssl.xmrig.com
 
