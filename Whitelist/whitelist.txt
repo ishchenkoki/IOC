@@ -2150,7 +2150,6 @@ diagmon-serviceapi.samsungdm.com
 ru-comonrt-stsdk.vivoglobal.com
 s.optnx.com
 www.binance.com
-nbstream.binance.com
-dstream.binance.com
 checkip.dyndns.org
 bitbucket.org
+hcdnw.cbg.haiwai.c.cdnhwc1.com
