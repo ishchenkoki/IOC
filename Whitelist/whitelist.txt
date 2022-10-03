@@ -2153,3 +2153,6 @@ www.binance.com
 checkip.dyndns.org
 bitbucket.org
 hcdnw.cbg.haiwai.c.cdnhwc1.com
+mylitlekid.com
+stream.binance.com
+nbstream.binance.com
