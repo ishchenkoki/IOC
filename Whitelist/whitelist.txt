@@ -2148,3 +2148,7 @@ gmx.net
 tools.spylog.ru
 diagmon-serviceapi.samsungdm.com
 ru-comonrt-stsdk.vivoglobal.com
+s.optnx.com
+www.binance.com
+nbstream.binance.com
+dstream.binance.com
