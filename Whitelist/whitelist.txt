@@ -2169,3 +2169,6 @@ toptal.com
 dstream.binance.com
 client.wns.windows.com
 baumix-sib.ru
+temp-mail.org
+www.sentinelone.com
+detektor.ru
