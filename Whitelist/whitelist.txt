@@ -9,8 +9,6 @@ avr.next-video.ru
 evrovet36.ru
 pre.glotgrx.com
 sync.upravel.com
-stat4.oldrrb.bid
-select7.oldrrb.bid
 static.dsn-cdn.ru
 js.mamydirect.com
 vast-bidder-eu-04.b.otm-r.com
