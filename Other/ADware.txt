@@ -21,3 +21,15 @@ select7.oldrrb.bid
 select8.oldrrb.bid
 select9.oldrrb.bid
 select10.oldrrb.bid
+shvhse.com
+select0.pstatrbnew.bid
+select1.pstatrbnew.bid
+select2.pstatrbnew.bid
+select3.pstatrbnew.bid
+select4.pstatrbnew.bid
+select5.pstatrbnew.bid
+select6.pstatrbnew.bid
+select7.pstatrbnew.bid
+select8.pstatrbnew.bid
+select9.pstatrbnew.bid
+select10.pstatrbnew.bid
