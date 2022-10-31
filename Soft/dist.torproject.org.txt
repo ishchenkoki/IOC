@@ -1,1 +1,2 @@
 dist.torproject.org
+tor.invidious.site
