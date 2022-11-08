@@ -2207,3 +2207,4 @@ help.vpes.local
 videoassets41.blob.core.windows.net
 narcoklinika.com
 bitbucket.org
+sto-klass.ru
