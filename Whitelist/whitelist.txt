@@ -2208,3 +2208,4 @@ videoassets41.blob.core.windows.net
 narcoklinika.com
 bitbucket.org
 sto-klass.ru
+blogs.vmware.com
