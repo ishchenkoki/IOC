@@ -2213,3 +2213,4 @@ blogs.vmware.com
 bongacams.com
 /logo/
 www.trellix.com
+www.secureworks.com
