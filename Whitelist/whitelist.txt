@@ -2217,3 +2217,9 @@ www.secureworks.com
 sslbl.abuse.ch
 dbeaver.io 
 objects.githubusercontent.com
+markirovka.ru
+kartinok.ru
+checkip.dyndns.com
+poloniex.com
+pro.coinbase.com
+www.bithumb.com
