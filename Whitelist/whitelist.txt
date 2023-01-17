@@ -2227,3 +2227,5 @@ www.bithumb.com
 j.maxmind.com
 sudrf.ru
 40.70.161.7
+www.planetaexcel.ru
+inquest.net
