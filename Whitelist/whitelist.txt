@@ -2232,3 +2232,4 @@ inquest.net
 api.facebook.com
 in.appcenter.ms
 dls.di.atlas.samsung.com
+in.appcenter.ms
