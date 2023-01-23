@@ -2233,3 +2233,6 @@ api.facebook.com
 in.appcenter.ms
 dls.di.atlas.samsung.com
 in.appcenter.ms
+displaycatalog.mp.microsoft.com
+52.232.209.85
+20.82.154.241
