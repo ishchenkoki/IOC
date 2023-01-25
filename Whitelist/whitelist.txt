@@ -2239,3 +2239,5 @@ displaycatalog.mp.microsoft.com
 rmansys.ru
 rms-server.tektonit.ru
 so1cool.com
+193.143.92.122
+safebrowsing.googleapis.com
