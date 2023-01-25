@@ -2236,3 +2236,6 @@ in.appcenter.ms
 displaycatalog.mp.microsoft.com
 52.232.209.85
 20.82.154.241
+rmansys.ru
+rms-server.tektonit.ru
+so1cool.com
