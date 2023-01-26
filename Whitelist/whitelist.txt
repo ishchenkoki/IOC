@@ -2243,3 +2243,4 @@ so1cool.com
 safebrowsing.googleapis.com
 id70.internetid.ru
 142.250.187.202
+fonts.googleapis.com
