@@ -2250,3 +2250,10 @@ people-pa.clients6.google.com
 signaler-pa.clients6.google.com
 101-magazin.ru
 myexternalip.com
+agrohim-ug-93.ru
+www.pem-energo.ru
+g-energomash.ru
+kotle.ru
+rozetkaonline.ru
+next-gazon.ru
+/form/
