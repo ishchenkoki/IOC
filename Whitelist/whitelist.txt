@@ -2273,3 +2273,7 @@ relap.mail.ru
 tracking.diginetica.net
 get4click.ru
 counter.megagroup.ru
+/api/
+/img/top.jpg
+/1/
+jnn-pa.googleapis.com
