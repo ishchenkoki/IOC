@@ -2295,3 +2295,4 @@ d.t-relay.moesdr.eu.org
 239.255.255.250
 greenwayglobal.com
 limg.imgsmail.ru
+wikimedia.org
