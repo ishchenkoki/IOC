@@ -2299,3 +2299,10 @@ wikimedia.org
 clients2.google.com
 142.250.74.14
 clients1.google.com
+android.clients.google.com
+ogs.google.com
+translate.google.com
+aa.google.com
+sb-ssl.google.com
+app-measurement.com
+www.google-analytics.com
