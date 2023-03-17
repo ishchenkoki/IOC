@@ -2311,3 +2311,10 @@ accounts.doubleclick.net
 encrypted-tbn0.gstatic.com
 /?
 /app/
+sport-tver.ru
+clients4.google.com
+clients5.google.com
+clients6.google.com
+img.youtube.com
+history.google.com
+khms0.google.com
