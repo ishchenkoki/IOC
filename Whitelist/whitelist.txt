@@ -2318,3 +2318,5 @@ clients6.google.com
 img.youtube.com
 history.google.com
 khms0.google.com
+id.google.com
+in.appcenter.ms
