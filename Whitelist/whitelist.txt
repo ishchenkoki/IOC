@@ -2321,3 +2321,5 @@ khms0.google.com
 id.google.com
 in.appcenter.ms
 icro72.ru
+/img/logo.jpg
+шарофф.рф
