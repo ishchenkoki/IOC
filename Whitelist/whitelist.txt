@@ -2323,3 +2323,4 @@ in.appcenter.ms
 icro72.ru
 /img/logo.jpg
 шарофф.рф
+cloudflare-ipfs.com
