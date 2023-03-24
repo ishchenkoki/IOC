@@ -2324,3 +2324,5 @@ icro72.ru
 /img/logo.jpg
 шарофф.рф
 cloudflare-ipfs.com
+/home/
+40.70.161.102
