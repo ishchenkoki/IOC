@@ -2326,3 +2326,6 @@ icro72.ru
 cloudflare-ipfs.com
 /home/
 40.70.161.102
+www.facebook.com
+157.240.252.35
+flomaster.club
