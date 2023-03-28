@@ -2331,3 +2331,9 @@ www.facebook.com
 flomaster.club
 2.ru.pool.ntp.org
 1.ru.pool.ntp.org
+/time/
+kabelsvyazi.ru
+ocsp.digicert.com
+www.rebelco.pt
+covid.0x918fh.ru
+/beacon
