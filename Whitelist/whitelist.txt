@@ -2329,3 +2329,5 @@ cloudflare-ipfs.com
 www.facebook.com
 157.240.252.35
 flomaster.club
+2.ru.pool.ntp.org
+1.ru.pool.ntp.org
