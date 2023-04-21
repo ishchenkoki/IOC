@@ -2348,3 +2348,5 @@ www.dan.me.uk
 fp2e7a.wpc.2be4.phicdn.net
 ipv4.icanhazip.com
 files.catbox.moe
+/new/
+/api/v1/
