@@ -2351,3 +2351,4 @@ files.catbox.moe
 /new/
 /api/v1/
 trk.mail.ru
+mt2.google.com
