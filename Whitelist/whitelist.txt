@@ -2350,3 +2350,4 @@ ipv4.icanhazip.com
 files.catbox.moe
 /new/
 /api/v1/
+trk.mail.ru
