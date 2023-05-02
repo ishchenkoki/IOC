@@ -2354,3 +2354,9 @@ trk.mail.ru
 mt2.google.com
 52.109.68.59
 odc.officeapps.live.com
+mq.dataservices.hp.com
+ocsp.pki.goog
+addons-pa.clients6.google.com
+adservice.google.ru
+encrypted-vtbn0.gstatic.com
+googleoptimize.com
