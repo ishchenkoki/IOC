@@ -2360,3 +2360,7 @@ addons-pa.clients6.google.com
 adservice.google.ru
 encrypted-vtbn0.gstatic.com
 googleoptimize.com
+156.154.132.200
+trello.com
+tehtris.com
+/config.json
