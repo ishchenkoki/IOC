@@ -2366,3 +2366,5 @@ tehtris.com
 /config.json
 gmx.ru
 svoydomtoday.ru
+fe3.delivery.mp.microsoft.com
+20.3.187.198
