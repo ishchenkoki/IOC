@@ -2375,3 +2375,4 @@ secure.usedesk.ru
 /request
 newadmin.ru
 209.197.3.8
+78.109.47.243
