@@ -2376,3 +2376,5 @@ secure.usedesk.ru
 newadmin.ru
 209.197.3.8
 78.109.47.243
+192.229.221.95
+crl3.digicert.com
