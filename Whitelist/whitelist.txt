@@ -2378,3 +2378,4 @@ newadmin.ru
 78.109.47.243
 192.229.221.95
 crl3.digicert.com
+/logo
