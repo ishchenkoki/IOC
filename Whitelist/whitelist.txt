@@ -2382,3 +2382,4 @@ crl3.digicert.com
 /roots/dstrootcax3.p7c
 www.rfa.org
 prognoz3.ru
+alfabank.ru
