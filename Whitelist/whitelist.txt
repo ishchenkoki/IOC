@@ -2380,3 +2380,5 @@ newadmin.ru
 crl3.digicert.com
 /logo
 /roots/dstrootcax3.p7c
+www.rfa.org
+prognoz3.ru
