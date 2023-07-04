@@ -2383,3 +2383,4 @@ crl3.digicert.com
 www.rfa.org
 prognoz3.ru
 alfabank.ru
+dvmap.ru
