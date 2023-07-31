@@ -2391,3 +2391,5 @@ a26a1ffb81a61281ffa55cb7778cc3fb0ff981704de49f75f51f18b283fba7a2
 upload.wikimedia.org
 l2.io
 config.officeapps.live.com
+officeclient.microsoft.com
+52.109.32.24
