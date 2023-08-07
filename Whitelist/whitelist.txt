@@ -2395,3 +2395,5 @@ officeclient.microsoft.com
 52.109.32.24
 www.zoomeye.org
 threatbook.io
+/images/logo.gif
+cvws.icloud-content.com
