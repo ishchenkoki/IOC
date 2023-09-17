@@ -2397,3 +2397,8 @@ www.zoomeye.org
 threatbook.io
 /images/logo.gif
 cvws.icloud-content.com
+avicenna-med.org
+1.0.0.1
+classifikators.ru
+ics-cert.kaspersky.com
+www.amazon.com
