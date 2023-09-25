@@ -2402,3 +2402,4 @@ avicenna-med.org
 classifikators.ru
 ics-cert.kaspersky.com
 www.amazon.com
+193.27.228.102
