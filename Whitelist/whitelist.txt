@@ -2406,3 +2406,4 @@ www.amazon.com
 188.114.97.3
 173.231.16.75
 storage.cloud.google.com
+cstatic.weborama.fr
