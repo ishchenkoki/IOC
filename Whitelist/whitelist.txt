@@ -2410,3 +2410,5 @@ cstatic.weborama.fr
 91.189.239.214
 disk.yandex.ru
 cdn.ghostery.com
+/nel/
+geolocation-db.com
