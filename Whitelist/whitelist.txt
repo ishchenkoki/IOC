@@ -2412,3 +2412,7 @@ disk.yandex.ru
 cdn.ghostery.com
 /nel/
 geolocation-db.com
+threatfox.abuse.ch
+community.emergingthreats.net
+documents.trendmicro.com
+narod.ru
