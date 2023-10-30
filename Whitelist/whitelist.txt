@@ -2416,3 +2416,5 @@ threatfox.abuse.ch
 community.emergingthreats.net
 documents.trendmicro.com
 narod.ru
+community.hpe.com
+185.178.208.137
