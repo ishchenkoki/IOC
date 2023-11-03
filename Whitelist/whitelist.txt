@@ -2426,3 +2426,8 @@ sberbank.ru
 cdn.ghostery.com
 95.213.205.83
 s85.123apps.com
+/new
+/start.html
+/sent/
+/p
+/engine/
