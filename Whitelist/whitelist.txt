@@ -2424,3 +2424,5 @@ vsepostavshiki.ru
 /users/sign_in
 sberbank.ru
 cdn.ghostery.com
+95.213.205.83
+s85.123apps.com
