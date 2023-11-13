@@ -2431,3 +2431,5 @@ s85.123apps.com
 /sent/
 /p
 /engine/
+/video
+/one/
