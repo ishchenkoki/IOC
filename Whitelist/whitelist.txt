@@ -2435,3 +2435,5 @@ s85.123apps.com
 /one/
 www.wildberries.ru
 drive.usercontent.google.com
+ipify.org
+api.ipify.org
