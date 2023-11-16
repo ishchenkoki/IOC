@@ -2437,3 +2437,7 @@ www.wildberries.ru
 drive.usercontent.google.com
 ipify.org
 api.ipify.org
+speakerdeck.com
+s84.123apps.com
+s87.123apps.com
+s85.123apps.com
