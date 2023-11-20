@@ -2446,3 +2446,4 @@ s85.123apps.com
 odingaz.ru
 intake-logging.wikimedia.org
 /sent/
+hostglobal.plus
