@@ -2452,3 +2452,6 @@ tcsaturn.ru
 blog.google
 192.58.128.30
 192.33.4.12
+dl.dropbox.com
+search.censys.io
+/wp-admin/admin-ajax.php
