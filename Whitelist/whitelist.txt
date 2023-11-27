@@ -2450,3 +2450,5 @@ hostglobal.plus
 192.5.5.241
 tcsaturn.ru	
 blog.google
+192.58.128.30
+192.33.4.12
