@@ -2455,3 +2455,5 @@ blog.google
 dl.dropbox.com
 search.censys.io
 /wp-admin/admin-ajax.php
+ognehimzashita.ru
+mid.ru
