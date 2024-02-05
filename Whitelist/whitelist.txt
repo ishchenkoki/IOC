@@ -2469,3 +2469,5 @@ simsnabgaz.ru
 23.35.104.242
 /products
 40.99.10.82
+10.0.0.3
+disk.sbis.ru
