@@ -2476,3 +2476,4 @@ disk.sbis.ru
 kakoysegodnyaprazdnik.com
 178.208.83.36
 95.163.51.51
+/counter.js
