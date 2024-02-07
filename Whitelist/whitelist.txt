@@ -2478,3 +2478,5 @@ kakoysegodnyaprazdnik.com
 95.163.51.51
 /counter.js
 40.99.8.194
+40.99.10.82
+40.99.10.66
