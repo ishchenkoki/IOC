@@ -2485,3 +2485,5 @@ kakoysegodnyaprazdnik.com
 128.140.171.22
 173.231.16.77
 iacis.ru
+104.244.42.1
+twitter.com
