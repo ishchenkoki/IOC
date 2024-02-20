@@ -38,3 +38,9 @@ a38dece5bcb9f6d1c027d86e0318a60e
 f0881b3c3d1535685d6190df4083f515
 61d5944634d735c3e6efc3b1349de740
 99634dcaca690066187e30c36182bf19
+dnsseed.bitcoin.dashjr.org
+dnsseed.emzy.de
+seed.bitcoin.sipa.be
+seed.bitcoin.wiz.biz
+seed.bitcoinstats.com
+seed.bitcoin.jonasschnelli.ch
