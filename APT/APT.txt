@@ -288,3 +288,13 @@ exactsynchtime.ru
 licensecheckout.com
 servicehost-update.net
 passportyandex.net
+195.19.93.142
+45.147.200.165
+94.131.113.95
+45.87.246.216
+104.21.11.126
+mtp.upd-rkn.net
+get.upd-rkn.net
+bot.upd-rkn.net
+rls.upd-rkn.net
+upd-rkn.net
