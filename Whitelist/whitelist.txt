@@ -2525,4 +2525,6 @@ a.nel.cloudflare.com
 /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
 188.114.96.3
 192.168.0.93
+knd25.ru
 41.63.96.128
+r3.i.lencr.org
