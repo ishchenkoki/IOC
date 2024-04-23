@@ -2528,3 +2528,5 @@ a.nel.cloudflare.com
 knd25.ru
 41.63.96.128
 r3.i.lencr.org
+www.digicert.com
+www.icloud.com
