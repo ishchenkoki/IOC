@@ -2530,3 +2530,4 @@ knd25.ru
 r3.i.lencr.org
 www.digicert.com
 www.icloud.com
+msftspeechmodelsprod.azureedge.net
