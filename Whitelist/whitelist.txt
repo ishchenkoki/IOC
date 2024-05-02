@@ -2573,3 +2573,11 @@ workspace.google.com
 dns1.namecheaphosting.com
 ns3.spaceweb.pro
 grade.market.yandex.ru
+/api/user
+colab.research.google.com
+prod-web.wondershare.cc
+consentmanager.mgr.consensu.org
+/v1/
+/images/logo.jpg
+/login.html
+/main.css
