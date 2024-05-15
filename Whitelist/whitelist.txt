@@ -2582,3 +2582,4 @@ consentmanager.mgr.consensu.org
 /login.html
 /main.css
 /js/main.js
+/profile
