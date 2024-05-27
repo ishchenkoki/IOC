@@ -2583,3 +2583,11 @@ consentmanager.mgr.consensu.org
 /main.css
 /js/main.js
 /profile
+www.eset.com
+s07.flagcounter.com
+pc-api.wondershare.cc
+api3.check-data.xyz
+/script.js
+web-mechanic.ru
+zhitomir-news.ru
+/media/com_rsform/js/script.js
