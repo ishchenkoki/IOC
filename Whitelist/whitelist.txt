@@ -2591,3 +2591,5 @@ api3.check-data.xyz
 web-mechanic.ru
 zhitomir-news.ru
 /media/com_rsform/js/script.js
+instrument-prodaja.ru
+travel-picture.ru
