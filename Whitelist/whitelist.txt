@@ -2600,3 +2600,5 @@ excalidraw.com
 cdn-ru.bitrix24.ru
 a-s-m.bitrix24.ru
 enkost.bitrix24.ru
+b24-bcpfj3.bitrix24.ru
+cdn-ru.bitrix24.ru
