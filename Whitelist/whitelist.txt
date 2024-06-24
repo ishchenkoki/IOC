@@ -2599,3 +2599,4 @@ excalidraw.com
 52.98.140.50
 cdn-ru.bitrix24.ru
 a-s-m.bitrix24.ru
+enkost.bitrix24.ru
