@@ -2603,3 +2603,5 @@ enkost.bitrix24.ru
 b24-bcpfj3.bitrix24.ru
 cdn-ru.bitrix24.ru
 tl-shop.ru
+/Domains
+ttk.ru
