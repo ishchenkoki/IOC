@@ -2623,3 +2623,7 @@ ns2.tildadns.com
 pkgupdate7.synology.com
 www.binarydefense.com
 2B7602CC1521101D116995E3E2DDFE0943349806378A0D40ADD81BA64E359B6C
+native-people.ru
+/w/index.php
+prom-electric.ru
+142.250.181.225 
