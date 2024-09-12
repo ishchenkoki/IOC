@@ -150,6 +150,7 @@ fsd.multiurok.ru
 static.politico.com
 counter.millionpodarkov.ru
 ncsi.qnap.com
+ardownload3.adobe.com 
 forum.kasperskyclub.ru
 spamhaus.org
 49d72e8c8b2dafe2bc9748254b87aed37dce818f40ad9d490fa0bb9e16bfdf15
