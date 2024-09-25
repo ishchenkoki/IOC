@@ -2633,3 +2633,5 @@ salad-drive.by
 www.binarydefense.com
 /projects/bruteforceblocker/blist.php
 www.binarydefense.com
+34.149.100.209
+firefox.settings.services.mozilla.com
