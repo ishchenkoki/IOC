@@ -2635,3 +2635,5 @@ www.binarydefense.com
 www.binarydefense.com
 34.149.100.209
 firefox.settings.services.mozilla.com
+config.edge.skype.com
+13.107.42.16
