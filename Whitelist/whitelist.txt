@@ -2637,3 +2637,5 @@ www.binarydefense.com
 firefox.settings.services.mozilla.com
 config.edge.skype.com
 13.107.42.16
+bs-dante.ru
+passport.yandex.ru
