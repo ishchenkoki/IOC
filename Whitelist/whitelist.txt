@@ -2639,3 +2639,6 @@ config.edge.skype.com
 13.107.42.16
 bs-dante.ru
 passport.yandex.ru
+xdr.facct[.]ru
+lessbuttons[.]com
+142.250.186.78
